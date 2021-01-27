@@ -10,7 +10,7 @@ img{
 h3{
   color:white;
 }
-.list{
+.menu{
     color:green;
     float: right;
 }
@@ -38,7 +38,7 @@ html{
     scroll-behavior: smooth;
 }
 
-#bryan{
+#bryana{
 margin-right: 200px;
 }
 
